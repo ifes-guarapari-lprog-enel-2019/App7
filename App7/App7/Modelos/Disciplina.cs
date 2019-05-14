@@ -8,7 +8,7 @@ namespace App7.Modelos
     {
 
         // lista de cursos
-        private List<Curso> cursos;
+        private List<Curso> cursos = new List<Curso>();
 
         public List<Curso> Cursos
         {
