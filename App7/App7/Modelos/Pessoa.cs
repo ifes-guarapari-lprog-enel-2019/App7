@@ -8,7 +8,7 @@ namespace App7.Modelos
     {
 
         // lista de contatos
-        private List<Contato> contatos;
+        private List<Contato> contatos = new List<Contato>();
 
         public List<Contato> Contatos
         {
