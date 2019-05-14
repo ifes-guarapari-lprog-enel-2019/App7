@@ -7,7 +7,7 @@ namespace App7.Modelos
     class Curso
     {
         // lista de disciplinas
-        private List<Disciplina> disciplinas;
+        private List<Disciplina> disciplinas = new List<Disciplina>();
 
         public List<Disciplina> Disciplinas
         {
